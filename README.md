@@ -1,8 +1,13 @@
 # RiskEngine + ScenarioForge
 
-[![RiskEngine CI](https://github.com/Fnc-Jit/Risk-An/actions/workflows/build.yml/badge.svg)](https://github.com/Fnc-Jit/Risk-An/actions/workflows/build.yml)
-[![Python 3.12+](https://img.shields.io/badge/python-3.12%2B-blue?logo=python&logoColor=white)](https://www.python.org/downloads/)
-[![Docker](https://img.shields.io/badge/docker-4.x%2B-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![RiskEngine CI](https://github.com/Fnc-Jit/Risk-An/actions/workflows/build.yml/badge.svg?style=for-the-badge)](https://github.com/Fnc-Jit/Risk-An/actions/workflows/build.yml)
+[![Python 3.12+](https://img.shields.io/badge/python-3.12%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
+[![Java 21](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://adoptium.net/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
+[![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=postgresql&logoColor=black)](https://www.timescale.com/)
+[![ONNX](https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white)](https://onnxruntime.ai/)
+[![Docker](https://img.shields.io/badge/docker-4.x%2B-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ---
 
